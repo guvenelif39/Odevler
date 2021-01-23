@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Odevler", "Odevler\Odevler.csproj", "{68B82B9D-E251-43D5-8B03-CC2747BB65FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassMethodDemo", "Odev-3\ClassMethodDemo.csproj", "{838C7E44-83AF-4CBA-8650-6B8D440016FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68B82B9D-E251-43D5-8B03-CC2747BB65FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68B82B9D-E251-43D5-8B03-CC2747BB65FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68B82B9D-E251-43D5-8B03-CC2747BB65FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68B82B9D-E251-43D5-8B03-CC2747BB65FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{838C7E44-83AF-4CBA-8650-6B8D440016FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{838C7E44-83AF-4CBA-8650-6B8D440016FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{838C7E44-83AF-4CBA-8650-6B8D440016FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{838C7E44-83AF-4CBA-8650-6B8D440016FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {31CD4EB2-AB64-4F10-84D1-D3F12E5F3EF1}
+	EndGlobalSection
+EndGlobal
